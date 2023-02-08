@@ -6,5 +6,3 @@ def yline(first_point, second_point, x):
     y = m*x + b
     print(y)
     return y
-
-yline((1,2),(2,3),3)
